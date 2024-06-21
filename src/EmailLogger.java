@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class EmailLogger {
+public class EmailLogger extends Logger{
+    @Override
+    public void log(){
+        System.out.println("Email yollandı.");
+    }
 }

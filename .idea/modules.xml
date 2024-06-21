@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/inheritance2.iml" filepath="$PROJECT_DIR$/inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" filepath="$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" />
     </modules>
   </component>
 </project>

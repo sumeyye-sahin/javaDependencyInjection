@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Logger {
+public class Logger {
+    public void log(){
+        System.out.println("Ortak konfigurasyon.");
+    }
 }

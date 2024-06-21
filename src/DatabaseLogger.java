@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class DatabaseLogger {
+public class DatabaseLogger extends Logger{
+    @Override
+    public void log(){
+        System.out.println("Veritabanı loglandı.");
+    }
 }
